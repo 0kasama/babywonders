@@ -1,0 +1,9 @@
+[submodule "server-ecom"]
+	path = server-ecom
+	url = https://github.com/0kasama/server-ecom.git
+[submodule "cms-ecom"]
+	path = cms-ecom
+	url = https://github.com/0kasama/cms-ecom.git
+[submodule "user-ecom"]
+	path = user-ecom
+	url = https://github.com/0kasama/user-ecom.git
